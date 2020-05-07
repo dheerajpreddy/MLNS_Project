@@ -1,2 +1,2 @@
 # MLNS_Project
-Source code for MLNS Project - property prediction using SMILES+XYZ input data
+Source code for MLNS Project - drug property prediction using SMILES+XYZ input data
